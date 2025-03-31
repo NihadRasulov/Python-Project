@@ -1,15 +1,15 @@
 age = 15
 number = 12.5
 name = "Nihat"
-# print("My name is {0}.Age is {1}".format(name, age))
-# print(f"My name is {name}. Age is {age}.")
-#
-# print(type(age))
-# print(name*2)
-# print(age/10)  #1.5
-# print(age//10) #1
-# print(age%10) #5
-# print(pow(age,3))
+print("My name is {0}.Age is {1}".format(name, age))
+print(f"My name is {name}. Age is {age}.")
+
+print(type(age))
+print(name*2)
+print(age/10)  #1.5
+print(age//10) #1
+print(age%10) #5
+print(pow(age,3))
 
 print(format(age,"b"))  # change age to byte code
 print(format(age,"o"))  # change age to octal(8-lik) code

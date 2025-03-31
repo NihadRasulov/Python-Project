@@ -3,18 +3,20 @@
 # print(d)
 d = {'name': "Javid",'surname':"Aliyev"}
 
-l = (12,34)
-new_d = dict(l)
-
-print(d['name'])
-d['name'] = 'James'
-print(d['name'])
-
-print(d)
-d['age'] = 24
-print(d)
-d['status']=True
-print(d)
+# l = (12,34)
+# new_d = dict(l)
+#
+# print(new_d)
+#
+# print(d['name'])
+# d['name'] = 'James'
+# print(d['name'])
+#
+# print(d)
+# d['age'] = 24
+# print(d)
+# d['status']=True
+# print(d)
 
 # 1.ordering
 # 2.mutable
